@@ -1,0 +1,26 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+$max-width: 800px;
+
+section {
+  margin: 0px;
+  padding-bottom: 20px;
+  max-width: $max-width;
+
+  #title {
+    margin: 0px;
+  }
+}
+
+.wrapper {
+  max-width: $max-width;
+}
+
+#header {
+  nav {
+    max-width: $max-width;
+  }
+}

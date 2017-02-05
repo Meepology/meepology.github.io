@@ -1,0 +1,17 @@
+title: Meepology
+email: lem@meepology.com
+owner: Lem Lordje Ko
+description: >
+  (over)analyzing tabletop games
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: lemonkoala
+github_username:  lemonkoala
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-midnight
+gems:
+  - jekyll-feed
+exclude:

@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+  site:
+    build: .
+    image: meepology/website
+    ports:
+      - "4000:4000"
+    container_name: meepology_site
+    command: jekyll serve --host 0.0.0.0 --force_polling --drafts
+    volumes:
+      - .:/site
+    tty: true
