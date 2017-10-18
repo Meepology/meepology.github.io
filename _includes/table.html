@@ -1,0 +1,20 @@
+<table>
+  <thead>
+    {% for row in include.data.header %}
+      <tr>
+      {% for data in row %}
+        <th>{{ data }}</th>
+      {% endfor %}
+      </tr>
+    {% endfor %}
+  </thead>
+  <tbody>
+    {% for row in include.data.body %}
+      <tr>
+      {% for data in row %}
+        <td>{{ data }}</td>
+      {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
