@@ -16,7 +16,7 @@ This website is a project that I've wanted to start for a while now but I get to
 instead of thinking more about them. Now, I want to take a step back and start being more of a _theoretical_ gamer (haha).
 There's this funny quote: "That is all very well in practice, but how will it work out in theory?"
 
-Previous works that inspired me to pursue to this include:
+Previous works that inspired me to pursue this include:
 
 * [A Knowledge-based Approach of Connect-Four](http://www.informatik.uni-trier.de/~fernau/DSL0607/Masterthesis-Viergewinnt.pdf)
 * [Analysis of Chutes and Ladders](http://www.datagenetics.com/blog/november12011/)
