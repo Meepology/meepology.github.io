@@ -4,12 +4,12 @@ title: Home
 permalink: /
 ---
 
-Welcome to meepology! It is the study of tabletop games and their strategies by applying
+Welcome to meepleogy! It is the study of tabletop games and their strategies by applying
 mathematics, economics, and computer science.
 
 I graduated college with a degree in Computer Science with a minor in Economics. Shortly after graduating,
 I got in to tabletop games as a [community](https://www.facebook.com/groups/cebuboardgamers/) was brewing in my hometown.
-Being competitive, I would always try to mathematically devise strategy and imagine game simulations I could run
+Being competitive, I would sometimes try to mathematically devise strategy and imagine game simulations I could run
 to reveal some yet unknown paths to victory.
 
 This website is a project that I've wanted to start for a while now but I get too busy actually playing the games
@@ -22,7 +22,7 @@ Previous works that inspired me to pursue to this include:
 * [Analysis of Chutes and Ladders](http://www.datagenetics.com/blog/november12011/)
 * And all the chess books I had read during my chess days
 
-I hope you'll have as much fun reading these elaborate analyses as I will have writing them.
+I hope you'll have as much fun reading these elaborate analyses as I have writing them.
 Hopefully, this will actually help us becoming smarter tabletop gamers.
 
-&mdash; Lem, Chief Meepologist
+&mdash; Lem, Chief Meepleogist

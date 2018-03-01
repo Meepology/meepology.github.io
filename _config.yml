@@ -1,5 +1,5 @@
-title: Meepology
-email: lem@meepology.com
+title: Meepleogy
+email: lem@meepleogy.com
 owner: Lem Lordje Ko
 description: >
   (over)analyzing tabletop games
@@ -12,6 +12,6 @@ github_username:  lemonkoala
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
-gems:
+plugins:
   - jekyll-feed
 exclude:

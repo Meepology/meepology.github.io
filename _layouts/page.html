@@ -9,8 +9,6 @@ layout: all
 <hr />
 
 <section>
-  <p>Here are all the games:</p>
-
   {% for game in site.data.games %}
     {% if site.categories[game.category].size > 0 %}
       <h3>{{ game.name }}</h3>
