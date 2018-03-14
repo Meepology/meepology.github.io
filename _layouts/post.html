@@ -6,6 +6,10 @@ layout: all
 
 <section>
   <h1 class="post-title">{{ game.name }} - {{ page.title }}</h1>
+  <p  class="game-description">
+    This article is about the game {{ game.name }}.
+    To learn more, see its <a href="{{ game.link }}">boardgamegeek page</a>.
+  </p>
 
   {{ content }}
 </section>
@@ -13,12 +17,12 @@ layout: all
 <hr />
 
 <section>
-  <p>
-    Here's the jupyter notebook for this post:
-    <a href="{{ page.notebook }}.ipynb">{{ page.notebook }}.ipynb</a>,
-    html export:
-    <a href="{{ page.notebook }}.html" >{{ page.notebook }}.html</a>
-  </p>
+  {% if page.notebook %}
+    <p>
+      The jupyter notebook for this post is available here:
+      <a href="{{ page.notebook }}">{{ page.notebook }}</a>
+    </p>
+  {% endif %}
 
   {% if site.categories[page.category].size > 1 %}
     <p>Other posts for this game:</p>
